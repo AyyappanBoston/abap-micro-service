@@ -1,0 +1,29 @@
+{
+  "name": "express-sales-order",
+  "version": "0.1.0",
+  "description": "express and Sales Order",
+  "scripts": {
+    "client": "node client",
+    "pool": "node pool"
+  },
+  "author": "SAP",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "loglevel": "^1.7.1",
+    "node-rfc": "^2.4.0",
+    "uuid": "^8.3.2"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyyappanBoston/abap-function-call.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AyyappanBoston/abap-function-call/issues"
+  },
+  "homepage": "https://github.com/AyyappanBoston/abap-function-call#readme"
+}
